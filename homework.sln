@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{55ACEA16-0A9E-4082-A209-031DAE1854D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework_2", "homework_2\homework_2.csproj", "{EC6814C6-3F25-43B1-8F94-9CA6B375EBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework_3", "homework_3\homework_3.csproj", "{C24CEF31-F2ED-46C4-B073-7137C288B693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55ACEA16-0A9E-4082-A209-031DAE1854D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ACEA16-0A9E-4082-A209-031DAE1854D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ACEA16-0A9E-4082-A209-031DAE1854D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ACEA16-0A9E-4082-A209-031DAE1854D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6814C6-3F25-43B1-8F94-9CA6B375EBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6814C6-3F25-43B1-8F94-9CA6B375EBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6814C6-3F25-43B1-8F94-9CA6B375EBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6814C6-3F25-43B1-8F94-9CA6B375EBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24CEF31-F2ED-46C4-B073-7137C288B693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24CEF31-F2ED-46C4-B073-7137C288B693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24CEF31-F2ED-46C4-B073-7137C288B693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24CEF31-F2ED-46C4-B073-7137C288B693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1299770-6168-4EB6-9FA5-0988D85BC516}
+	EndGlobalSection
+EndGlobal
