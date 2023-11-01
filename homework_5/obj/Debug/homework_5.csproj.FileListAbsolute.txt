@@ -1,0 +1,7 @@
+C:\Users\maxza\source\repos\homework\homework_5\bin\Debug\homework_5.exe.config
+C:\Users\maxza\source\repos\homework\homework_5\bin\Debug\homework_5.exe
+C:\Users\maxza\source\repos\homework\homework_5\bin\Debug\homework_5.pdb
+C:\Users\maxza\source\repos\homework\homework_5\obj\Debug\homework_5.csproj.AssemblyReference.cache
+C:\Users\maxza\source\repos\homework\homework_5\obj\Debug\homework_5.csproj.CoreCompileInputs.cache
+C:\Users\maxza\source\repos\homework\homework_5\obj\Debug\homework_5.exe
+C:\Users\maxza\source\repos\homework\homework_5\obj\Debug\homework_5.pdb
