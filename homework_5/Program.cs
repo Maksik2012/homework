@@ -14,7 +14,7 @@ namespace homework_5
             string str;
             char Char;
             while (true){
-                Console.WriteLine("Введите знак (Для выхода введите exit)");
+                Console.WriteLine("Введите операцию (Для выхода введите exit)");
                 str = Console.ReadLine();
 
                 if(str == "exit")
@@ -47,8 +47,17 @@ namespace homework_5
                 switch (Char)
                 {
                     case '/':
-                        result = a / b;
-                        Console.WriteLine("результат: " + result);
+                        if(b == 0)
+                        {
+                            result = 0;
+                            Console.WriteLine("результат: " + result);
+                        }
+                        else
+                        {
+                            result = a / b;
+                            Console.WriteLine("результат: " + result);
+                        }
+                        
                         break;
                     case '*':
                         result = a * b;
@@ -65,6 +74,9 @@ namespace homework_5
                     case '-':
                         result = a - b;
                         Console.WriteLine("результат: " + result);
+                        break;
+                    default:
+                        Console.WriteLine("Неизвестный символ");
                         break;
                 }
             }
